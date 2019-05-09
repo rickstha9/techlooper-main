@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/services.css">
+		<link rel="stylesheet" type="text/css" href="css/about.css">
 	<link rel="stylesheet" type="text/css" href="css/slick.css">
 	<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
@@ -59,10 +60,10 @@
         <a class="nav-link" href="#">works</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About Us</a>
+        <a class="nav-link" href="about.php">About Us</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link contact" href="#">Contact Us</a>
+        <a class="nav-link contact" href="#contact">Contact Us</a>
       </li>
     </ul>
   </div>

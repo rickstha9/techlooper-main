@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Stylish');
+.about-banner{
+  background: url('../image/about-banner.jpg') no-repeat;
+background-size: cover;
+text-align: center;
+margin-top: 80px;
+height: 400px;
+width: 100%;
+max-height: 250px;
+position: relative;
+}
+.about-banner h2{
+    font-family: 'Stylish', sans-serif;
+    font-size: 55px;
+    font-weight: 500;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0 10px;
+    border-radius: 3px;
+    letter-spacing: 2px;
+}
