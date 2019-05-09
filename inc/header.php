@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/services.css">
 	<link rel="stylesheet" type="text/css" href="css/slick.css">
 	<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
@@ -43,15 +44,15 @@
         <a class="nav-link" href="index.php">Home</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="services.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="services.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Services
         </a>
         <div class="dropdown-menu dropdown-style" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="services.html?#web-design">Web Design</a>
-          <a class="dropdown-item" href="services.html?#web-development">Web Development</a>
-          <a class="dropdown-item" href="services.html?#mobile-application">Mobile Apliction</a>
-          <a class="dropdown-item" href="services.html?#digital-marketing">Digital Marketing</a>
-          <a class="dropdown-item" href="services.html?#web-application">Web Aplication</a>
+          <a class="dropdown-item" href="services.php?#web-design">Web Design</a>
+          <a class="dropdown-item" href="services.php?#web-development">Web Development</a>
+          <a class="dropdown-item" href="services.php?#mobile-application">Mobile Apliction</a>
+          <a class="dropdown-item" href="services.php?#digital-marketing">Digital Marketing</a>
+          <a class="dropdown-item" href="services.php?#grapic-design">Graphic Design</a>
         </div>
       </li>
       <li class="nav-item">
