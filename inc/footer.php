@@ -16,11 +16,11 @@
         <div class="content">
           <h1>Menu</h1>
           <ul class="footer-menu">
-            <li><a href="#">Home</a></li>
-              <li><a href="#">Services</a></li>
-                <li><a href="#">Works</a></li>
-                  <li><a href="#">About Us</a></li>
-                    <li><a href="#">Contact Us</a></li>
+            <li><a href="index.php">Home</a></li>
+              <li><a href="services.php">Services</a></li>
+                <li><a href="works.php">Works</a></li>
+                  <li><a href="about.php">About Us</a></li>
+
 
 
           </ul>

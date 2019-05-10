@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 body{
 	background: #f1f1f1;
 	color: #666;
-	font-family: 'Dosis', serif;
+font-family: 'Poppins', sans-serif;
 }
 .navbar{
 	background: black;
@@ -394,7 +395,7 @@ list-style: none outside none;
 
 .blog-entry .entry-hover{
 	position: absolute;
-	margin:25px;
+	margin: 19px;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -484,7 +485,7 @@ list-style: none outside none;
 	margin-bottom: 20px;
 }
 .blog-entry .hover-info .hover-text{
-	font-size: 14px;
+	font-size: 13px;
 }
 .blog-entry:hover .hover-info .hover-text,
 .blog-entry:hover .hover-info .hover-auther

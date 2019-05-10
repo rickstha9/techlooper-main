@@ -4,10 +4,14 @@
 background-size: cover;
 text-align: center;
 margin-top: 80px;
+margin-bottom: 20px;
 height: 400px;
 width: 100%;
 max-height: 250px;
 position: relative;
+-webkit-box-shadow: 0px 7px 13px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 7px 13px -2px rgba(0,0,0,0.75);
+box-shadow: 0px 7px 13px -2px rgba(0,0,0,0.75);
 }
 .about-banner h2{
     font-family: 'Stylish', sans-serif;
@@ -15,7 +19,7 @@ position: relative;
     font-weight: 500;
     position: absolute;
     top: 25%;
-    left: 40%;
+    left: 35%;
     color: #fff;
     background: rgba(0, 0, 0, 0.6);
     padding: 0 10px;

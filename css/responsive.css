@@ -69,20 +69,25 @@
 			font-size: 15px;
 	    color: #918f8f;
 	    line-height: 22px;
+			.about{
 	}
-	.about{
 		margin-bottom: 255px;
 	}
 }
 
 @media(max-width:770px){
+	font-size: 20px;
 	.intro-1 p,.intro-2 p{
-		font-size: 20px;
 	}
 	.dropdown-style{
 
 		border: none;
 
+	}
+	.about-banner h2{
+		left: 15%;
+		top: 40%;
+		font-size: 45px;
 	}
 
 
@@ -125,12 +130,18 @@ footer{
 		.about-box .box-about a .aboutinfo{
 
 }
+
 }
 
 
 @media(max-width: 530px){
 	.for-slick{
 		top: 20px;
+	}
+	.about-banner h2{
+		left: 13%;
+
+		font-size: 35px;
 	}
 	.intro-1 h1,.intro-2 h1{
 		font-size: 35px;

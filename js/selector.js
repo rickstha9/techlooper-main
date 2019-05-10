@@ -87,4 +87,10 @@ $('.contact').click(function(){
 			 }, 1000);
 			 })
 
+			 $('.map').click(function(){
+			 	$('html, body').animate({
+			 					 scrollTop: $("#map").offset().top
+			 			 }, 1000);
+			 			 })
+
  });

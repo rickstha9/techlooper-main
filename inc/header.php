@@ -63,7 +63,7 @@
         <a class="nav-link" href="about.php">About Us</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link contact" href="#contact">Contact Us</a>
+        <a class="nav-link contact" href="#">Contact Us</a>
       </li>
     </ul>
   </div>

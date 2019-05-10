@@ -53,8 +53,8 @@
 			<p>We work methodically and are always excited about new ideas, challenges and projects. From the concept to the finest detail, we will do what it takes, in order to make of your project a memorable piece which will achieve your goals and objectives.
 				We provide a consistent and complete design and development approach for both small and large businesses across a broad range of media, creating strong bonds between you and your clients. Take a look below to learn more about our creative abilities and expertise.
 			</p>
-			<a href="#" class="btn-1">Contact Us</a>
-				<a href="" class="btn-2">Our Location</a>
+			<a href="#" class="btn-1 contact">Contact Us</a>
+				<a href="#" class="btn-2 map">Our Location</a>
 
 			</div>
 	</div>
@@ -131,7 +131,7 @@
 			<div class=" col-md-6 col-sm-12 ">
 
 
-					<img src="image/app.png" alt="About Image" class="img-fluid"  >
+					<img src="image/11.png" alt="About Image" class="img-fluid"  >
 			</div>
 			<div class=" col-md-6 col-sm-12">
 				<div class="aboutinfo" >
@@ -238,7 +238,7 @@
 
 
 <!-- map start -->
-<div class="map" id="#map">
+<div class="map" id="map">
 	<div class="map-heading text-center">
 		<h2>Find Us Here</h2>
 	</div>

@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Stylish');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 
 
 .services-banner{
@@ -28,6 +29,8 @@ position: relative;
 .services-content p{
   font-size: 15px;
   letter-spacing: 1.5px;
+  font-family: 'Poppins', sans-serif;
+
 
 }
 .services-content .for-margin{
